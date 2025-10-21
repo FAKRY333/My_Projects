@@ -42,6 +42,6 @@ Each project shows what I learned step-by-step — from basic DOM manipulation t
 - Add more small apps soon 🚀  
 
 ---
-
+###[see more projects](https://github.com/FAKRY333/My-Projects)**
 👨‍💻 **Created by [Fakry Mohamed]()**  
 📅 *made on October 2025*
