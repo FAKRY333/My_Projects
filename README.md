@@ -18,7 +18,7 @@ HTML, CSS, JavaScript, LocalStorage
 
 ---
 
-### 🧑‍🤝‍🧑 [Friends App]((https://fakry333.github.io/My_Projects/Frinds/))**
+### 🧑‍🤝‍🧑 [Friends App](https://fakry333.github.io/My_Projects/Frinds/)**
 An app to add and view friends’ data including:
 - Name, Age, Country, and Skills  
 - Data stored and retrieved from **LocalStorage**  
