@@ -7,7 +7,7 @@ All projects are built using **HTML**, **CSS**, and **JavaScript**, and each one
 
 ## 🚀 Projects
 
-### 📝 [To-Do List App](https://fikri.github.io/my-projects/todo-list/)
+### 📝 [To-Do List App](https://fakry333.github.io/My_Projects/ToDo-list/)
 A simple and clean To-Do List app that allows you to:
 - Add and remove tasks  
 - Mark tasks as completed  
@@ -18,7 +18,7 @@ HTML, CSS, JavaScript, LocalStorage
 
 ---
 
-### 🧑‍🤝‍🧑 [Friends App] => ((https://fakry333.github.io/My_Projects/Frinds/))**
+### 🧑‍🤝‍🧑 [Friends App]((https://fakry333.github.io/My_Projects/Frinds/))**
 An app to add and view friends’ data including:
 - Name, Age, Country, and Skills  
 - Data stored and retrieved from **LocalStorage**  
@@ -43,5 +43,5 @@ Each project shows what I learned step-by-step — from basic DOM manipulation t
 
 ---
 
-👨‍💻 **Created by [Fakry Mohamed](https://fakry333.github.io/My_Projects/ToDo-list/)**  
+👨‍💻 **Created by [Fakry Mohamed]()**  
 📅 *Started on October 2025*
