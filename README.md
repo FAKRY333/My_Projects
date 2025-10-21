@@ -44,4 +44,4 @@ Each project shows what I learned step-by-step — from basic DOM manipulation t
 ---
 
 👨‍💻 **Created by [Fakry Mohamed]()**  
-📅 *Started on October 2025*
+📅 *made on October 2025*
