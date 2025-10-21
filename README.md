@@ -1,4 +1,4 @@
-# 🧑‍💻 My Front-End Projects
+# My Front-End Projects
 
 Welcome to my small collection of front-end projects!  
 All projects are built using **HTML**, **CSS**, and **JavaScript**, and each one shows my progress as a developer 💪  
