@@ -1,6 +1,6 @@
 # Fakry Mohamed 🌐
 
-Hi! I'm **Fikri Mohamed**, a passionate web developer and UI designer. I love programming, cybersecurity, and creating smooth user experiences. I enjoy experimenting with new technologies and building practical projects using HTML, CSS, and JavaScript.
+Hi! I'm **Fakry Mohamed**, a passionate web developer and UI designer. I love programming, cybersecurity, and creating smooth user experiences. I enjoy experimenting with new technologies and building practical projects using HTML, CSS, and JavaScript.
 
 In this repository, you will find a collection of my personal projects, each with a detailed description and a live demo link on GitHub Pages.
 
