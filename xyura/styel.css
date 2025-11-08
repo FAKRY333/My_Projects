@@ -427,6 +427,9 @@ margin-top: 20px;
    margin-bottom: 20px;
    align-self: self-start;
 }
+    .nav i{
+    font-size:23px;
+    }
 header{
     margin: 0;
     background-color: rgba(223, 223, 223, 0.76);
@@ -491,4 +494,5 @@ gap: 10px;
 
 .active{
     height: 500px;
+
 }
